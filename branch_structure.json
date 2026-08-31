@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/app-error-subclass-prototypes",
+    "main",
+    "origin",
+    "test/batching-queue-trigger-boundaries"
+  ],
+  "parent": {
+    "fix/app-error-subclass-prototypes": "main",
+    "main": null,
+    "origin": "main",
+    "test/batching-queue-trigger-boundaries": "main"
+  },
+  "order": [
+    "main",
+    "fix/app-error-subclass-prototypes",
+    "origin",
+    "test/batching-queue-trigger-boundaries"
+  ]
+}
